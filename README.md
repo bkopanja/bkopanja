@@ -28,6 +28,10 @@ Every senior software developer can "hack" a thing or two using any language, bu
 
 # :writing_hand: Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Open Data Hackathon – what it really is?](https://www.bojankopanja.com/open-data-hackathon-what-it-really-is/)
+- [Open Data Hakaton je?](https://www.bojankopanja.com/open-data-hakaton-je/)
+- [“Should I stay or should I go?”](https://www.bojankopanja.com/should-i-stay-or-should-i-go/)
+- [GTW problem na Win8](https://www.bojankopanja.com/gtw-problem-na-win8/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
