@@ -20,7 +20,7 @@ I'm a software development professional with 15+ years of experience in various 
 
 # What's currently going on in my life (professionally ofc 🙂)
 
-Well beleve it or ono, I’m currently learning Python - it's that simple, not ML, not Cryptpo or something else super "hot" right now... Plain and simple Python 🙂!
+Well beleve it or not, I’m currently learning Python - it's that simple, not ML, not Cryptpo or something else super "hot" right now... Plain and simple Python 🙂!
 
 Every senior software developer can "hack" a thing or two using any language, but I want to deeply familiarize myself with Python as I never had a chance to do so in my day-to-day work so I made it my missin to kick-off several personal projects in 2023. written fully in Python and grow my public github repo-land, it's been about time 🤘
 
