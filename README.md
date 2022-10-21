@@ -24,8 +24,6 @@ Well beleve it or not, I’m currently learning Python - it's that simple, not M
 
 Every senior software developer can "hack" a thing or two using any language, but I want to deeply familiarize myself with Python as I never had a chance to do so in my day-to-day work so I made it my missin to kick-off several personal projects in 2023. written fully in Python and grow my public github repo-land, it's been about time 🤘
 
-
-
 # :writing_hand: Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Open Data Hackathon – what it really is?](https://www.bojankopanja.com/open-data-hackathon-what-it-really-is/)
@@ -33,18 +31,3 @@ Every senior software developer can "hack" a thing or two using any language, bu
 - [“Should I stay or should I go?”](https://www.bojankopanja.com/should-i-stay-or-should-i-go/)
 - [GTW problem na Win8](https://www.bojankopanja.com/gtw-problem-na-win8/)
 <!-- BLOG-POST-LIST:END -->
-
-<!--
-**bkopanja/bkopanja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
