@@ -27,7 +27,8 @@ Every senior software developer can "hack" a thing or two using any language, bu
 # :writing_hand: Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Open Data Hackathon – what it really is?](https://www.bojankopanja.com/open-data-hackathon-what-it-really-is/)
-- [“Should I stay or should I go?”](https://www.bojankopanja.com/should-i-stay-or-should-i-go/)
-- [GTW problem na Win8](https://www.bojankopanja.com/gtw-problem-na-win8/)
 - [GWT problems with Win8](https://www.bojankopanja.com/gwt-problems-with-win8/)
+- [New decisions for this year](https://www.bojankopanja.com/new-decisions-for-this-year/)
+- [Set Time Machine to use network drive](https://www.bojankopanja.com/set-time-machine-to-use-network-drive/)
+- [Look in the past](https://www.bojankopanja.com/look-in-the-past/)
 <!-- BLOG-POST-LIST:END -->
