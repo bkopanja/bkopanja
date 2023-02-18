@@ -16,8 +16,7 @@
   </div>
 </div>
 
-I'm a software development professional with 15+ years of experience in various areas (mobile, frontend, backend). Ex Director of Engineering @ [Bonfire](https://bonfire.com) where I enjoyed growing a fully remote team and working with some of the best people I've met in my career. I'm still involved with Bonfire as a contractor on a position of Solutions Architect where I help lead the teck advancement of the platform.
-
+I'm a software development professional with 15+ years of experience in various areas (mobile, frontend, backend). Ex Director of Engineering @ [Bonfire](https://bonfire.com) where I helped lead the tech advancement of the platform and enjoyed growing a fully remote team and working with some of the best people I've met in my career.
 ## What's currently going on in my life (professionally ofc 🙂)
 
 Well beleve it or not, I’m currently learning Python - it's that simple, not ML, not Cryptpo or something else super "hot" right now... Plain and simple Python 🙂!
