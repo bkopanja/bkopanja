@@ -25,8 +25,8 @@ Every senior software developer can "hack" a thing or two using any language, bu
 
 # :writing_hand: Blog Posts:
 <!-- BLOG-POST-LIST:START -->
- * [Migrate on-prem infrastructure to the cloud](https://www.bojankopanja.com/migrate-on-prem-infrastructure-to-the-cloud/) on Mon Oct 24 2022 11:43 AM
- * [Open Data Hackathon – what it really is?](https://www.bojankopanja.com/open-data-hackathon-what-it-really-is/) on Fri Dec 11 2015 7:47 PM
- * [GWT problems with Win8](https://www.bojankopanja.com/gwt-problems-with-win8/) on Sun Sep 08 2013 2:26 PM
- * [New decisions for this year](https://www.bojankopanja.com/new-decisions-for-this-year/) on Sat Feb 02 2013 2:22 PM
- * [Set Time Machine to use network drive](https://www.bojankopanja.com/set-time-machine-to-use-network-drive/) on Thu Jan 10 2013 2:05 PM<!-- BLOG-POST-LIST:END -->
+ * [Migrate on-prem infrastructure to the cloud](https://www.kopanja.info/2022/10/24/migrate-on-prem-infrastructure-to-the-cloud/) on Mon Oct 24 2022 11:43 AM
+ * [Open Data Hackathon – what it really is?](https://www.kopanja.info/2015/12/11/open-data-hackathon-what-it-really-is/) on Fri Dec 11 2015 7:47 PM
+ * [GWT problems with Win8](https://www.kopanja.info/2013/09/08/gwt-problems-with-win8/) on Sun Sep 08 2013 2:26 PM
+ * [New decisions for this year](https://www.kopanja.info/2013/02/02/new-decisions-for-this-year/) on Sat Feb 02 2013 2:22 PM
+ * [Set Time Machine to use network drive](https://www.kopanja.info/2013/01/10/set-time-machine-to-use-network-drive/) on Thu Jan 10 2013 2:05 PM<!-- BLOG-POST-LIST:END -->
